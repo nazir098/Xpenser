@@ -4,9 +4,15 @@ The Web Application is created using following technologies and features.
 
 
    |_ React.Js - FrontEnd Library
+   
    |_ Redux - State Management Tool
+   
    |_ React Routers - Routing Library
+   
    |_ React Toastify, React Modals
+   
    |_ Javascript
+   
    |_ CSS 
+   
    |_ HTML
