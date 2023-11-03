@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <a
         className='social-icon-link facebook'
-        href='https://www.facebook.com/VirAj2K/'
+        href='https://www.facebook.com'
         target='_blank'
         rel="noopener noreferrer"
         aria-label='Facebook'
@@ -14,7 +14,7 @@ const Footer = () => {
       </a>
       <a
         className='social-icon-link linkedin'
-        href='https://www.linkedin.com/in/viraj-agharkar-1232k/'
+        href='https://www.linkedin.com/in/md-nazir-husain-401892191/'
         target='_blank'
         aria-label='LinkedIn'
         rel="noopener noreferrer"
@@ -23,7 +23,7 @@ const Footer = () => {
       </a>
       <a
         className='social-icon-link youtube'
-        href='https://www.youtube.com/channel/UCB_ZNGblkA5Nx-3UEjPPkfA'
+        href='https://www.youtube.com'
         target='_blank'
         aria-label='YouTube'
         rel="noopener noreferrer"
@@ -31,11 +31,11 @@ const Footer = () => {
         <i className='fab fa-youtube' id="linkdin" />
       </a>
       <div></div>
-      <span>VA_C_2K© 2022</span>
+      <span>NAzIR_098© 2023</span>
       <div></div>
       <a
         className='social-icon-link instagram'
-        href='https://www.instagram.com/vac_2k'
+        href='https://www.instagram.com'
         target='_blank'
         rel="noopener noreferrer"
         aria-label='Instagram'
@@ -44,7 +44,7 @@ const Footer = () => {
       </a>
       <a
         className='social-icon-link github'
-        href='https://github.com/VA-C-2K'
+        href='https://github.com/nazir098'
         target='_blank'
         rel="noopener noreferrer"
         aria-label='GitHub'
@@ -53,7 +53,7 @@ const Footer = () => {
       </a>
       <a
         className='social-icon-link discord'
-        href='https://discordapp.com/channels/944493604905320478/944493604905320481'
+        href='https://discordapp.com'
         target='_blank'
         aria-label='Discord'
         rel="noopener noreferrer"
